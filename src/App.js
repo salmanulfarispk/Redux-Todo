@@ -1,6 +1,8 @@
 import 'mdb-react-ui-kit/dist/css/mdb.min.css';
 import Todopage from './Todopage';
+import React from 'react';
 
+import './App.css'; 
 
 
 
@@ -9,7 +11,7 @@ import Todopage from './Todopage';
 function App() {
   return (
    
-    <div >
+    <div>
      
    
   <Todopage/>

@@ -37,7 +37,7 @@ const save = (id)=>{
 
 
 <MDBContainer fluid className="my-5">
-      <MDBRow className="justify-content-center">
+      <MDBRow className="justify-content-center ">
       <MDBCol md="8" lg="6" xl="4">
           <MDBCard style={{ borderRadius: "15px" }}>
 
